@@ -4,9 +4,9 @@
 
 ## ⏮ Reverse Engineering 
 
- * * 🔧 [x86 opcodes reference](http://ref.x86asm.net/coder.html)
-   * * 🔧 [x86-64 opcodes reference](http://ref.x86asm.net/coder64.html)
-  * 📖 [PE file format header (img)](https://i.stack.imgur.com/0DdKh.png)
+ * 🔧 [x86 opcodes reference](http://ref.x86asm.net/coder.html)
+   * 🔧 [x86-64 opcodes reference](http://ref.x86asm.net/coder64.html)
+ * 📖 [PE file format header (img)](https://i.stack.imgur.com/0DdKh.png)
  * 📖 [hardening malware analyiss windows vms](https://byte-atlas.blogspot.com/2017/02/hardening-vbox-win7x64.html)
  * 📖 [PEB structure (with offsets)](https://www.aldeid.com/wiki/PEB-Process-Environment-Block)
  * 🔧 [unrolling complete structures (fuck unions, typedefs, etc)](https://twitter.com/gamozolabs/status/1198107130663845888)
